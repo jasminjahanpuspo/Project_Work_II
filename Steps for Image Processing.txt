@@ -10,4 +10,4 @@ Steps for Image Recognition..........
 
 5. Algorithm Implementation
     i)KNN(Supervised Learning)
-    ii)
+    ii)Logistic regressoin(Supervised Learning)
